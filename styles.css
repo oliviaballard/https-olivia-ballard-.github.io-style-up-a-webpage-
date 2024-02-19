@@ -1,0 +1,73 @@
+.body-class {
+  background-color: #fcd1f2; /* Subtle background color */
+  color: #000000; /* Default font color */
+  font-family: Tahoma, sans-serif; /* Tahoma font for body text */
+}
+
+.header-class {
+  background-color: #faa7fb; /* Contrasting background color */
+  color: #4be4c8; /* Font color for better visibility */
+  font-family: "Mercury Display", sans-serif; /* Header text font */
+}
+
+.nav-class {
+  background-color: #fc0065; /* Different background color */
+  color: #f2f0f0; /* Font color */
+}
+.nav-class a.active {
+  font-weight: bold; /* Bold active page link */
+}
+
+.title-class {
+  color: #7b0148; /* Distinct color for titles */
+  font-family: "Mercury Display", sans-serif; /* Titles text font */
+}
+.section-title-class {
+  color: #5c022c; /* Distinct color for section titles */
+  font-family: "Mercury Display", sans-serif; /* Section titles text font */
+}
+
+.text-class {
+  color: #000000; /* Font color contrasting well with background */
+}
+
+.image-class {
+  border: 1px solid #ff0000; /* Border with complementary color */
+}
+
+.form-class input[type="text"],
+.form-class textarea {
+  border: 1px solid #f0c5d5;
+  color: #af0606; /* Font color */
+}
+
+.newsletter-section-class input[type="email"] {
+  border: 1px solid #ff69b4; /* Pink border */
+}
+
+.newsletter-section-class input[email] {
+  border: 1px solid #ff69b4; /* Pink border */
+}
+
+.contact-section-class input[type="text"],
+.contact-section-class input[type="email"] {
+  border: 1px solid #ff69b4; /* Pink border */
+}
+
+
+.button-class {
+  background-color: #ac0045; /* Cohesive color for buttons */
+  color: #fbcbcb; /* Font color */
+}
+
+.footer-class {
+  background-color: #ce5a7b; /* Distinct background color */
+  color: #ef04d7; /* Font color */
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (min-width: 1200px) {
+
+}
